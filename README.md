@@ -3,8 +3,9 @@ Untuk Menjalankan
 - copy .env.example to .env
 - php artisan key:generate
 - npm install
+- npm update
 - php artisan migrate
   
   Untuk menjalankan
-  - php artisna serve
-  - dan npm run watch
+- php artisna serve
+- dan npm run watch
