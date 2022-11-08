@@ -9,3 +9,6 @@ Untuk Menjalankan
   Untuk menjalankan
 - php artisna serve
 - dan npm run watch
+
+Postman Collection
+https://documenter.getpostman.com/view/2971484/2s8YYPFKit
